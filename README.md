@@ -1,0 +1,2 @@
+# Decentralized Crowdfinding Project
+This project aims to create a decentralized crowdfunding platform that allows individuals and organizations to raise funds for their projects or causes. The platform operates on blockchain technology, ensuring transparency, security, and immutability of transactions and data.
